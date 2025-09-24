@@ -7,7 +7,7 @@ pinned: false
 license: mit
 sdk: static
 sdk_version: "1.0"
-app_file: index.html
+app_file: app.html
 ---
 
 # AI Graphic Designer Studio
