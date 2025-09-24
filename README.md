@@ -1,3 +1,13 @@
+---
+title: AI Graphic Designer Studio
+emoji: 🎨
+colorFrom: blue
+colorTo: purple
+sdk: static
+pinned: false
+license: mit
+---
+
 # AI Graphic Designer Studio
 
 An AI-powered design assistant that collaborates with you to create stunning visuals. Using iterative, layer-like editing, it helps you design social media posts, flyers, and more by understanding your brand's color palette, logo, and intent.
