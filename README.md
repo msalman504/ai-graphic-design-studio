@@ -3,9 +3,11 @@ title: AI Graphic Designer Studio
 emoji: 🎨
 colorFrom: blue
 colorTo: purple
-sdk: static
 pinned: false
 license: mit
+sdk: static
+sdk_version: "1.0"
+app_file: index.html
 ---
 
 # AI Graphic Designer Studio
